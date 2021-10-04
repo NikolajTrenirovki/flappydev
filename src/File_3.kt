@@ -4,7 +4,7 @@ fun main(){
 
 fun getResult(heights: Array<Int>): Int {
     // Write your code here...
-    
+
 }
 
 /*
